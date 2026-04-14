@@ -72,7 +72,7 @@ Each stage represents a step in the user journey.
 
 (Add your Power BI / charts screenshots here)
 
----
+<img width="1401" height="788" alt="Screenshot 2026-04-14 114906" src="https://github.com/user-attachments/assets/622d3e7e-24b2-43e5-bc15-57d2fab09b3f" />
 
 ## 🎯 Conclusion
 
